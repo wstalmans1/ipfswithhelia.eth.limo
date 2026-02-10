@@ -1,5 +1,7 @@
 # DApp Setup (Rookie-friendly)
 
+**Live UI:** [https://ipfswithhelia.eth.limo](https://ipfswithhelia.eth.limo)
+
 **Frontend**: Vite + React 18 + RainbowKit v2 + wagmi v2 + viem + TanStack Query v5 + Tailwind v4  
 **IPFS/IPNS**: Helia v2 (full IPFS node) + @helia/unixfs + @helia/ipns + @libp2p/crypto + @noble/curves  
 **IPFS Pinning**: Storacha SDK, Pinata SDK, or Fleek Platform SDK (choose one or multiple)  

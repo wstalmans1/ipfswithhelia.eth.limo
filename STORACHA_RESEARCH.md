@@ -1,7 +1,7 @@
 # Storacha Research & Integration Guide
 
 **Research Date:** December 5, 2024  
-**Project:** DAO Trial 27 Profile with IPFS-IPNS  
+**Project:** ipfswithhelia.eth.limo  
 **Current Setup:** Helia (browser-based IPFS) + Pinata (pinning service)
 
 ---
